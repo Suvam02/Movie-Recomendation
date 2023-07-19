@@ -1,0 +1,11 @@
+vertual Env :
+https://python.land/virtual-environments/virtualenv#Python_venv_activation
+
+Run PowerShell as administrator:-
+python -m venv venv
+venv\Scripts\Activate.ps1
+
+
+
+Heroku deployment:
+https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd
